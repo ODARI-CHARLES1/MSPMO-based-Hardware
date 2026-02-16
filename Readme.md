@@ -9,6 +9,7 @@ A hardware design for an Arduino UNO form-factor development board featuring the
 This project contains the KiCad design files for a custom development board based on the Texas Instruments MSPM0G3507 MCU, featuring CAN-FD connectivity in a familiar Arduino UNO-compatible form factor.
 
 ![MSPM0G350x Development Board](https://via.placeholder.com/800x400?text=MSPM0G350x+Arduino+UNO+Board)
+<img width="1166" height="596" alt="image" src="https://github.com/user-attachments/assets/186c431c-6bd9-49fb-9106-728b3500c71b" />
 
 ---
 
