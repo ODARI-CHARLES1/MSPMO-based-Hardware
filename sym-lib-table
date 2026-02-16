@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSPMOG3507SPTR")(type "KiCad")(uri "${KIPRJMOD}/MSPMOG3507SPTR.kicad_sym")(options "")(descr ""))
+)
