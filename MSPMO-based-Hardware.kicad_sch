@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "47275325-20e8-4d07-a4a0-f2c0cd8b78a7")
+	(paper "A4")
+	(title_block
+		(title "Schematic-1")
+		(date "2026-02-09")
+		(company "Odari-Designs")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
