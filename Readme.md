@@ -1,4 +1,4 @@
-# MSPM0G350x Arduino UNO Compatible Development Board
+# MSPM0G350x Development Board
 
 A hardware design for an Arduino UNO form-factor development board featuring the Texas Instruments MSPM0G350x Mixed-Signal Microcontroller with built-in CAN-FD interface.
 
