@@ -4761,7 +4761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2sc6y.pdf"
 			(at 73.66 50.165 0)
 			(effects
 				(font
@@ -4771,7 +4771,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+		(property "Description" "ESD Protection Diodes / TVS Diodes 2 Line 2.5pF 10nA USB 2.0 Automotive"
+			(at 72.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 72.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part Number" "USBLC6-2SC6Y"
+			(at 72.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D"
+			(at 72.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6Y/2819177?s=N4IgTCBcDaIKoGUBCAZAwgNgLRgZgmiALoC%2BQA"
+			(at 72.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2969755"
 			(at 72.39 41.91 0)
 			(effects
 				(font
@@ -6057,7 +6102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c46x1ds1hr.pdf"
 			(at 41.91 49.53 0)
 			(effects
 				(font
@@ -6066,7 +6111,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+		(property "Description" "USB Connectors USB2.0 TYPE C"
+			(at 38.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol Commercial Products"
+			(at 38.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part Number" "GSB1C4621DS1HR"
+			(at 38.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/Amphenol-Commercial-Products/GSB1C4621DS1HR?qs=3Rah4i%252BhyCGuNOeu2qbG9g%3D%3D"
+			(at 38.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 2" "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/GSB1C4621DS1HR/21623859?s=N4IgTCBcDaIOIGUBCBGAwgFgGxhQEQRQAkAlEAXQF8g"
+			(at 38.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20657289"
 			(at 38.1 49.53 0)
 			(effects
 				(font
@@ -7721,7 +7811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819"
+		(property "Datasheet" "https://www.maxlinear.com/ds/SPX3819.pdf"
 			(at 45.72 113.03 0)
 			(effects
 				(font
@@ -7730,7 +7820,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "500mA Low drop-out regulator, Fixed Output 3.3V, SOT-23-5"
+		(property "Description" "LDO Voltage Regulators 500mA LOW NOISE LDO"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "MaxLinear"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part Number" "SPX3819M5-L-3-3/TR"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/MaxLinear/SPX3819M5-L-3-3-TR?qs=S%2FCBhQS5rCp1Bb7a%252BD%2FCBQ%3D%3D"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 2" "https://eu.mouser.com/ProductDetail/MaxLinear/SPX3819M5-L-3-3-TR?qs=S%2FCBhQS5rCp1Bb7a%252BD%2FCBQ%3D%3D"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "https://www.digikey.com/en/products/detail/maxlinear-inc/SPX3819M5-L-3-3-TR/2472394?s=N4IgTCBcDaIMoAUAaBmAHARgJwFkCsAtADIEqkD0AKgEogC6AvkA"
 			(at 45.72 113.03 0)
 			(effects
 				(font
