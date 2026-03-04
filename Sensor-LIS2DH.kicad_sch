@@ -899,16 +899,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 76.2) (xy 88.9 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02c02f3f-d5b7-49da-afe6-84ea1d08dd94")
-	)
-	(wire
-		(pts
 			(xy 55.88 52.07) (xy 48.26 52.07)
 		)
 		(stroke
@@ -1059,7 +1049,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 77.47) (xy 87.63 77.47)
+			(xy 87.63 77.47) (xy 90.17 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1129,16 +1119,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 76.2) (xy 88.9 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0cc687f-30ac-4b04-a70b-4af33f8d305d")
-	)
-	(wire
-		(pts
 			(xy 45.72 67.31) (xy 55.88 67.31)
 		)
 		(stroke
@@ -1170,7 +1150,7 @@
 	)
 	(hierarchical_label "INT1"
 		(shape tri_state)
-		(at 90.17 76.2 0)
+		(at 90.17 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1435,7 +1415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.st.com/web/en/resource/technical/document/datasheet/DM00042751.pdf"
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lis2dh12.pdf"
 			(at 72.39 88.9 0)
 			(effects
 				(font
@@ -1444,7 +1424,70 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-14"
+		(property "Description" "Accelerometers MEMS digital output motion sensor: ultra-low-power high-performance 3-axis &#34;"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part Number" "LIS2DH12TR"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://eu.mouser.com/ProductDetail/STMicroelectronics/LIS2DH12TR?qs=yXzv9R%2FF42K6DbawEx3XmQ%3D%3D"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 2 " "https://www.digikey.com/en/products/detail/stmicroelectronics/LIS2DH12TR/4899892?s=N4IgTCBcDaIDIEkDKYAiAJAjGAKgJRAF0BfIA"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C110926"
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 72.39 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 72.39 73.66 0)
 			(effects
 				(font
@@ -1596,6 +1639,24 @@
 			)
 		)
 		(property "LCSC" "C2088892"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 48.26 57.15 0)
 			(effects
 				(font
@@ -1917,6 +1978,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 55.88 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 55.88 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20399d82-584d-474c-96c7-86989f6f374c")
 		)
@@ -2024,6 +2103,24 @@
 			)
 		)
 		(property "LCSC" "C20859689"
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 93.98 60.96 0)
 			(effects
 				(font
