@@ -4421,16 +4421,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 53.34) (xy 66.04 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2063d4ca-0624-4235-b780-06536f0d5ff6")
-	)
-	(wire
-		(pts
 			(xy 59.69 66.04) (xy 62.23 66.04)
 		)
 		(stroke
@@ -5171,6 +5161,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 53.34) (xy 66.04 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcc34750-1ade-447a-9d9d-fc84b667d7bc")
+	)
+	(wire
+		(pts
 			(xy 222.25 53.34) (xy 226.06 53.34)
 		)
 		(stroke
@@ -5569,6 +5569,16 @@
 		)
 		(uuid "6372ac47-f269-4177-928f-4dc7e4fbf851")
 	)
+	(label "USBCD-"
+		(at 60.96 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "64220c28-3066-4950-9b93-47e525700a94")
+	)
 	(label "INT2"
 		(at 226.06 60.96 0)
 		(effects
@@ -5669,6 +5679,16 @@
 		)
 		(uuid "c76cc2af-e106-46c3-ad2c-36ff2b586ecb")
 	)
+	(label "USBCD+"
+		(at 60.96 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9721a24-09b8-4904-b092-1c892064c448")
+	)
 	(label "USBD+"
 		(at 163.83 180.34 0)
 		(effects
@@ -5678,16 +5698,6 @@
 			(justify left bottom)
 		)
 		(uuid "d251dcf0-78e9-4933-bf85-27dd3da1ebbf")
-	)
-	(label "USBCD-"
-		(at 53.34 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d85bfdd6-510f-4f9f-8be4-5cf18206bf16")
 	)
 	(label "UART0RTS"
 		(at 168.91 74.93 0)
@@ -5718,16 +5728,6 @@
 			(justify left bottom)
 		)
 		(uuid "e0a612f5-b76d-4b8b-8765-f33f8c43101c")
-	)
-	(label "USBCD+"
-		(at 53.34 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7380315-3c2a-4a29-a275-6eaacc3fb45f")
 	)
 	(label "UART0RTS"
 		(at 163.83 170.18 0)
