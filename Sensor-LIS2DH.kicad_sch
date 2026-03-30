@@ -1137,6 +1137,28 @@
 		)
 		(uuid "fda19ea7-b25a-4d28-a278-5b8c0b530c36")
 	)
+	(hierarchical_label "INT1"
+		(shape tri_state)
+		(at 90.17 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1ecb66a6-4454-422a-9aff-4ed1b7c7691a")
+	)
+	(hierarchical_label "INT2"
+		(shape tri_state)
+		(at 99.06 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2401f8d6-2366-4396-8583-e00ef43df3e9")
+	)
 	(hierarchical_label "I2CSDA"
 		(shape tri_state)
 		(at 45.72 67.31 180)
@@ -1148,17 +1170,6 @@
 		)
 		(uuid "63040759-f273-4bdc-a6f8-18c81b637b96")
 	)
-	(hierarchical_label "INT1"
-		(shape tri_state)
-		(at 90.17 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8d962c86-0472-4a74-850e-93092b3a06ab")
-	)
 	(hierarchical_label "I2CSCL"
 		(shape tri_state)
 		(at 45.72 69.85 180)
@@ -1169,17 +1180,6 @@
 			(justify right)
 		)
 		(uuid "e673a649-04ca-483f-9803-0178f6957947")
-	)
-	(hierarchical_label "INT2"
-		(shape tri_state)
-		(at 90.17 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fecedd70-fac9-4d30-b91c-17f6770dde30")
 	)
 	(symbol
 		(lib_id "power:+3.3V")
