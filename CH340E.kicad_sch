@@ -949,17 +949,6 @@
 		)
 		(uuid "d02c10c2-e62a-4018-a816-cb61cb637b37")
 	)
-	(hierarchical_label "USBD-"
-		(shape tri_state)
-		(at 54.61 72.39 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1250d610-5641-464b-9e1f-65330bc41771")
-	)
 	(hierarchical_label "UART0RTS"
 		(shape tri_state)
 		(at 99.06 69.85 0)
@@ -971,6 +960,17 @@
 		)
 		(uuid "2d3076f6-e2ab-4c48-b7b3-bc30bb8ec64a")
 	)
+	(hierarchical_label "USBD-"
+		(shape tri_state)
+		(at 54.61 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "30a3fcb6-a1c4-43a3-8dc8-9e5ac12262e0")
+	)
 	(hierarchical_label "UART0TX"
 		(shape tri_state)
 		(at 99.06 64.77 0)
@@ -981,6 +981,17 @@
 			(justify left)
 		)
 		(uuid "9ad1869b-4d4b-4f39-b68f-5e02c8ea376b")
+	)
+	(hierarchical_label "USBD+"
+		(shape tri_state)
+		(at 54.61 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a276ace9-e167-42e5-b0f3-241627e5484d")
 	)
 	(hierarchical_label "UART0RX"
 		(shape tri_state)
@@ -1003,17 +1014,6 @@
 			(justify left)
 		)
 		(uuid "c96e6af8-e6a8-4035-9006-77f6769e3ad5")
-	)
-	(hierarchical_label "USBD+"
-		(shape tri_state)
-		(at 54.61 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cce7aea4-6c7c-4e70-a5fa-5995f74c8e8f")
 	)
 	(symbol
 		(lib_id "Device:C_Small")
