@@ -1150,7 +1150,7 @@
 	)
 	(hierarchical_label "INT2"
 		(shape tri_state)
-		(at 99.06 85.09 0)
+		(at 90.17 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
