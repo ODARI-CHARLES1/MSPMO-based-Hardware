@@ -1011,7 +1011,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MSPMO-based-Hardware.step",
       "svg": "",
       "vrml": ""
     },
