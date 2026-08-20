@@ -13,8 +13,6 @@ This project contains the KiCad design files for a custom development board base
 ![1772263825935](image/Readme/pcb-image.png)
 
 ---
-
-
 ## Features
 
 ### Microcontroller
