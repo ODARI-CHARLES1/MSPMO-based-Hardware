@@ -15,6 +15,7 @@ This project contains the KiCad design files for a custom development board base
 ---
 ## Features
 
+
 ### Microcontroller
 
 - **MCU**: Texas Instruments MSPM0G3507 (or MSPM0G3506)
